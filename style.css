@@ -1,0 +1,50 @@
+body {
+  font-family: sans-serif;
+}
+
+header {
+  padding-left: 125px;
+}
+
+.row {
+  display: table-row;
+}
+
+nav {
+  display: table-cell;
+  width: 95px;
+  padding-left: 30px;
+  padding-top: 20px;
+  font-size: 80%;
+  font-weight: bold;
+  line-height: 1.7em;
+}
+
+nav a:link,
+nav a:visited,
+nav a:hover,
+nav a:active {
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  color: gray;
+}
+
+section {
+  display: table-cell;
+}
+
+footer {
+  clear: both;
+  font-size: 80%;
+  padding-left: 95px;
+  padding-top: 10px;
+}
+
+.social {
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 40px;
+}
