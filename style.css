@@ -3,7 +3,7 @@ body {
 }
 
 header {
-  padding-left: 125px;
+  padding-left: 155px;
 }
 
 .row {
@@ -17,7 +17,7 @@ header {
 
 nav {
   display: table-cell;
-  width: 95px;
+  width: 125px;
   padding-left: 30px;
   padding-top: 20px;
   font-size: 80%;
@@ -44,7 +44,7 @@ section {
 footer {
   clear: both;
   font-size: 80%;
-  padding-left: 95px;
+  padding-left: 155px;
   padding-top: 10px;
 }
 
